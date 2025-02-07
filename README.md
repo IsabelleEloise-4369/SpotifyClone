@@ -1,10 +1,8 @@
-🎵 Clone do Spotify - Imersão Front-End Alura
-
-🚀 Concluí a Imersão Front-End da Alura! 🚀
+# Clone do Spotify - Imersão Front-End Alura 🎵
 
 Este repositório contém o projeto desenvolvido durante a Imersão Front-End da Alura, onde construí um clone do Spotify do zero, aplicando conceitos essenciais de desenvolvimento web.
 
-📌 Tecnologias Utilizadas
+# 📌 Tecnologias Utilizadas
 
 HTML5 e CSS3: Estruturação semântica e estilização moderna.
 
@@ -16,7 +14,7 @@ APIs e Integração: Consumo de dados externos para enriquecer a experiência.
 
 React (Introdução): Primeiros passos com esse poderoso framework.
 
-🖥️ Funcionalidades
+# 🖥️ Funcionalidades
 
 ✅ Interface inspirada no Spotify
 ✅ Layout responsivo e dinâmico
